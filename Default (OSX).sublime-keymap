@@ -1,0 +1,6 @@
+[
+    { "keys": ["alt+t"], "command": "go_to_char", "args": {"mode": "next"} },
+    { "keys": ["alt+r"], "command": "go_to_char", "args": {"mode": "back"} },
+    { "keys": ["shift+alt+t"], "command": "go_to_char", "args": {"mode": "next", "select": true} },
+    { "keys": ["shift+alt+r"], "command": "go_to_char", "args": {"mode": "back", "select": true} },
+]
